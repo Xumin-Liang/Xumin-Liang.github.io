@@ -4,7 +4,7 @@ title: Xumin Liang
 ---
 
 # Bio
-Ludwig-Maximilians-Universität München & Technische Universität München joint M.S. Student (First Year)
+LMU & TUM joint M.S. Student (First Year)
 
 Majoring in Theoretical and Mathematical Physics (Elite Master Course)
 
@@ -14,7 +14,11 @@ My current interest is in Loop Quantum Gravity.
 
 # Contact
 E-mail: Xumin.Liang@campus.lmu.de
+
 Telegram: @liangm7
+
 WeChat: Mickey-Sherlock
 
 # Education Experience
+
+# Research Experience
