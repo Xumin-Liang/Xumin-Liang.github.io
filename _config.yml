@@ -21,8 +21,7 @@ domainUrl: 'http://Xumin-Liang.github.io'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://
-
+comments: true
 # 菜单
 menu:
   - title: Homepage
